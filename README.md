@@ -32,6 +32,7 @@ Feel free to submit a PR adding on to this list with your project that runs on t
 - [Small adventure hack'n'slash game](https://github.com/MrJavaWolf/BornHack2022Game) by Jens 'JWolf' Larsen. See the [preview here](https://raw.githubusercontent.com/MrJavaWolf/BornHack2022Game/main/resources/teaser-video.mp4).
 - [Flappybirds](https://github.com/pietervdvn/BadgeMap/tree/feature/calendar/bornhack) by Pieter Vander Vennet.
 - [Pacman](https://github.com/glymphie/bh2022-pacman-game) by Glymphie.
+- [Survivator, small arcade game using a micro:bit for controls](https://github.com/waldeinburg/survivator) by Daniel Lundsgaard Skovenborg.
 
 ## License
 
